@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amanihadda.github.io/](https://amanihadda.github.io/)
 
-- 💬 Ask me about **ReactJs, NodeJs, Angular, Java, Spring boot**
+- 💬 Ask me about **ReactJs, NodeJs, Angular, Java, Spring boot, .NET, Django, Laravel**
 
 - 📫 How to reach me **amani.hadda@esprit.tn**
 
